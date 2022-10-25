@@ -1,5 +1,6 @@
 #To Do List
 - Playlist GIT Dasar
-- Playlist OOP
 - Playlist Python
+- Playlist Numpy
 - Bootsrap 5
+
